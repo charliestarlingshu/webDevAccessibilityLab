@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+h1.a{
+  color:white;
+}
+
 .container {
   width: 100%;
 }
